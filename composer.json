@@ -23,7 +23,8 @@
 		"nextras/datagrid": "^3.0.1"
 	},
 	"require-dev": {
-		"nette/tester": "^1.7"
+		"nette/tester": "^1.7",
+        "heroku/heroku-buildpack-php": "*"
 	},
 	"minimum-stability": "stable"
 }
